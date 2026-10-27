@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: ur5_robotiq_description
+    relative_path: urdf/ur_with_2f85_moveit.urdf.xacro
+  srdf:
+    relative_path: config/ur.srdf
+  package_settings:
+    author_name: juan martinez
+    author_email: juangiddd@outlook.com
+    generated_timestamp: 1792973365
